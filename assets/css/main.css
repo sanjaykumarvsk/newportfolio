@@ -1293,6 +1293,10 @@ section,
   margin: 14px;
 }
 
+.visit-btn-one{
+  margin-top: 18px;
+}
+
 .visit-btn{
   margin-top: 18px;
 }
@@ -1315,4 +1319,5 @@ section,
 
 .visit-btn-div{
   display: flex;
+  position: relative;
 }
