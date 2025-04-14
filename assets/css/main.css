@@ -1286,3 +1286,33 @@ section,
   height: 180px;
   width: 250px;
 }
+
+.project-cards {
+  width: 240px;
+  height: 360px;
+  margin: 14px;
+}
+
+.visit-btn{
+  margin-top: 18px;
+}
+
+.project-card-img{
+  /* height: 150px;
+  width: 180px; */
+  height: 150px;
+  width: 230px;
+}
+
+.card-deck{
+  display: flex;
+}
+
+.card-desc{
+  /* height: 90px; */
+  min-height: 110px;
+}
+
+.visit-btn-div{
+  display: flex;
+}
